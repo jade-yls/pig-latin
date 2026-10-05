@@ -7,7 +7,7 @@ readme = "README.md"
 
 # Fill in your name and e-mail here.
 authors = [
-    {name = "Jaad Schut", email = "jaadje_schut@hotmail.com"},
+    {name = "Jaad Schut", email = "jaadj@hotmail.com"},
    + {name = "Not Aisha", email = "notaisha@yahoo.com"},
    ]
 
